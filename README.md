@@ -1,4 +1,9 @@
-# The Different Mapping Techniques in Cache Memory
+# The Different Mapping Techniques in Cache Memory 
+Members
+- Paul Vincent B. Espina
+- Lorenzo R. Macaso
+- Maria Pamela P. Tagayon
+
 This is an educational resource that tackles the different mapping techniques in cache memory. Cache memory is a technique in which computer applications temporarily store data in a
 computer’s main memory (RAM) to enable fast retrievals of data. Caching is also useful to store
 data calculations that are otherwise time-consuming to compute. The mapping functions are used
