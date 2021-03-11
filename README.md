@@ -18,7 +18,7 @@ Architecture Designing for Performance and (10th ed., pp. 133-144). Hoboken, NJ:
 Pearson Education.
 - Cache memory in Computer Organization. (2020, June 08). Retrieved March 08, 2021,
 from
-https://www.geeksforgeeks.org/cache-memory-in-computer-organization/#:~:text=Usually%2C%20the%20cache%20memory%20can,specified%20by%20a%20mapping%20function.
+https://www.geeksforgeeks.org/cache-memory-in-computer-organization/#:~:text=Usually%2C%20the%20cache%20memory%20can,specified%20by%20a%20mapping%20function
 - Notes on cache memory. (n.d.). Retrieved March 08, 2021, from
 http://www.bowdoin.edu/~allen/courses/cs220/lab7/notes.html
 - What is memory caching? How memory caching works. (2020, March 19). Retrieved
