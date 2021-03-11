@@ -3,7 +3,7 @@ This is an educational resource that tackles the different mapping techniques in
 computer’s main memory (RAM) to enable fast retrievals of data. Caching is also useful to store
 data calculations that are otherwise time-consuming to compute. The mapping functions are used
 to map a particular block of main memory to a particular block of cache. The three mapping
-techniques that are used in cache memory are direct, associative, set-associative. 
+techniques that are used in cache memory are direct, associative, set-associative mapping. 
 
 References
 - Stallings, W. (2016). Cache Memory - Mapping Function. In Computer Organization and
