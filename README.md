@@ -1,8 +1,8 @@
 # The Different Mapping Techniques in Cache Memory 
 Members
 - Paul Vincent B. Espina
-- Lorenzo R. Macaso
-- Maria Pamela P. Tagayon
+- Lorenzo R. Macaso (Leader)
+- Maria Pamela P. Tagayon (Rapporteur)
 
 Description of the Project
 
@@ -13,9 +13,7 @@ to map a particular block of main memory to a particular block of cache. The thr
 techniques that are used in cache memory are direct, associative, set-associative mapping. 
 
 References
-- Stallings, W. (2016). Cache Memory - Mapping Function. In Computer Organization and
-Architecture Designing for Performance and (10th ed., pp. 133-144). Hoboken, NJ:
-Pearson Education.
+- W. Stallings. "Cache Memory" in *Computer Organization and Architecture Designing for Performance*, 10th ed., Hoboken, NJ: Pearson Education, 2016, pp. 133-144.
 - Cache memory in Computer Organization. (2020, June 08). Retrieved March 08, 2021,
 from
 https://www.geeksforgeeks.org/cache-memory-in-computer-organization/#:~:text=Usually%2C%20the%20cache%20memory%20can,specified%20by%20a%20mapping%20function
