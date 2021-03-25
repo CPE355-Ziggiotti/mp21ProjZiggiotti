@@ -14,18 +14,8 @@ techniques that are used in cache memory are direct, associative, set-associativ
 
 References
 
-[1] W. Stallings. "Cache Memory" in *Computer Organization and Architecture Designing for Performance*, 10th ed., Hoboken, NJ: Pearson Education, 2016, pp. 133-144.
-
-[2] Cache memory in Computer Organization. (2020, June 08). Retrieved March 08, 2021,
-from
-https://www.geeksforgeeks.org/cache-memory-in-computer-organization/#:~:text=Usually%2C%20the%20cache%20memory%20can,specified%20by%20a%20mapping%20function
-
-[3] Notes on cache memory. (n.d.). Retrieved March 08, 2021, from
-http://www.bowdoin.edu/~allen/courses/cs220/lab7/notes.html
-
-[4] What is memory caching? How memory caching works. (2020, March 19). Retrieved
-March 08, 2021, from https://hazelcast.com/glossary/memory-caching/
-
-[5] Examradar.com. (2020, October 23). Computer organization and architecture - mapping
-functions and replacement algorithms. Retrieved March 08, 2021, from
-https://examradar.com/mapping-functions-replacement-algorithms/#:~:text=The%20mapping%20functions%20are%20used,main%20memory%20to%20cache%20memory
+[1]W. Stallings. "Cache Memory" in Computer Organization and Architecture Designing for Performance, 10th ed., Hoboken, NJ: Pearson Education, 2016, pp. 133-144.
+[2]“Cache memory in Computer Organization”. Internet:https://www.geeksforgeeks.org/cache-memory-in-computer-organization/#:~:text=Usually%2C%20the%20cache%20memory%20can,specified%20by%20a%20mapping%20function. 2020, June 08 [Mar. 08, 2021] 
+[3]“Notes on cache  memory.”Internet: http://www.bowdoin.edu/~allen/courses/cs220/lab7/notes.html ,n.d. [March 08, 2021]
+[4]“What is memory caching? How memory caching works.” Internet: https://hazelcast.com/glossary/memory-caching/, 2020, March 19 [March 08, 2021] 
+[5]“Computer organization and architecture - mapping functions and replacement algorithms.”Internet:https://examradar.com/mapping-functions-replacement-algorithms/#:~:text=The%20mapping%20functions%20are%20used,main%20memory%20to%20cache%20memor, 2020, October 2 [March 08, 2021]
