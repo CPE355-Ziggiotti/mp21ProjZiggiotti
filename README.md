@@ -24,6 +24,8 @@ techniques that are used in cache memory are direct, associative, set-associativ
 
 [5] “Computer organization and architecture - mapping functions and replacement algorithms.”Internet:https://examradar.com/mapping-functions-replacement-algorithms/#:~:text=The%20mapping%20functions%20are%20used,main%20memory%20to%20cache%20memor, Oct. 2, 2020 [Mar. 08, 2021]
 
+[6] “SRAM (static random access memory)” Internet:https://whatis.techtarget.com/definition/SRAM-static-random-access-memory, Apr. 2005 [Apr. 2, 2021]
+
 **Table of Contents**
 - Abstract
 - Cache Memory
