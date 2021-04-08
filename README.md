@@ -1,6 +1,6 @@
 # The Different Mapping Techniques in Cache Memory 
 **Members**
-- Paul Vincent B. Espina
+- Paul Vincent B. Espina (Researcher)
 - Lorenzo R. Macaso (Leader)
 - Maria Pamela P. Tagayon (Rapporteur)
 
