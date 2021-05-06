@@ -1,0 +1,7 @@
+Done List
+- Final presentation uploaded
+- Final document uploaded
+
+TODO List
+- Update readme file
+- create a youtube presentation - submit link in readme.md
