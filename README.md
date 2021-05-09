@@ -42,3 +42,6 @@ techniques that are used in cache memory are direct, associative, set-associativ
 - Lorenzo R. Macaso 		- Abstract & Cache Memory
 - Maria Pamela P. Tagayon 	- Difference of the Mapping Techniques & its Relevance
 
+**Presentation YouTube Link:**
+
+https://youtu.be/Rjb7_WMLnxM
